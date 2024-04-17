@@ -1,0 +1,41 @@
+P1: 112
+P2: 212
+P3: 417
+P4: 426
+
+500 100 200 600 300
+
+FirstFit:
+File_no: File_size:  Block_no: Block_size:  Fragment
+1        112         1         500          388
+2        212         4         600          388
+3        417         0         0            0
+4        426         0         0            0
+
+FirstFit2:
+File_no: File_size:  Block_no: Block_size:  Fragment
+1        112         1         500          388
+2        212         1         500          176
+3        417         4         600          183
+4        426         0         0            0
+
+WorstFit:
+File_no: File_size:  Block_no: Block_size:  Fragment
+1        112         4         600          488
+2        212         1         500          288
+3        417         0         0            0
+4        426         0         0            0
+
+WorstFit2:
+File_no: File_size:  Block_no: Block_size:  Fragment
+1        112         4         600          488
+2        212         1         500          288
+3        417         4         600          71
+4        426         0         0            0
+
+BestFit:
+File_no: File_size:  Block_no: Block_size:  Fragment
+1        112         3         200          88
+2        212         5         300          88
+3        417         1         500          83
+4        426         4         600          174

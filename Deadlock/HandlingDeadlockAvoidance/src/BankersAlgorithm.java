@@ -8,9 +8,9 @@ public class BankersAlgorithm {
     static int[][] allocated;
     static int[] available;
     static int[] safeSequence;
-     static String fileName = "testcase1.txt";
-     static String relativePath = "src/" + fileName;
-     static String filePath = System.getProperty("user.dir") + "/" + relativePath;
+    final static String fileName = "testcase2.txt";
+    final static String relativePath = "src/" + fileName;
+    final static String filePath = System.getProperty("user.dir") + "/" + relativePath;
 
     public static void main(String[] args) throws IOException {
 
@@ -112,6 +112,4 @@ public class BankersAlgorithm {
         }
         br.close();
     }
-
-
 }

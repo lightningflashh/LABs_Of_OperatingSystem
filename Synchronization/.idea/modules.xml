@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoundedBufferProblems_UsingSemaphore/BoundedBufferProblems_UsingSemaphore.iml" filepath="$PROJECT_DIR$/BoundedBufferProblems_UsingSemaphore/BoundedBufferProblems_UsingSemaphore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProducersConsumersProblem_UsingMutexLock/ProducersConsumersProblem_UsingMutexLock.iml" filepath="$PROJECT_DIR$/ProducersConsumersProblem_UsingMutexLock/ProducersConsumersProblem_UsingMutexLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReadersWritersProblem/ReadersWritersProblem.iml" filepath="$PROJECT_DIR$/ReadersWritersProblem/ReadersWritersProblem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Synchronization.iml" filepath="$PROJECT_DIR$/.idea/Synchronization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheDiningPhilosophersProblem_UsingSemaphore/TheDiningPhilosophersProblem_UsingSemaphore.iml" filepath="$PROJECT_DIR$/TheDiningPhilosophersProblem_UsingSemaphore/TheDiningPhilosophersProblem_UsingSemaphore.iml" />
+    </modules>
+  </component>
+</project>
